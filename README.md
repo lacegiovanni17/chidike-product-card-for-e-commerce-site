@@ -2,13 +2,11 @@
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
 💻 This is a product card made with HTML & CSS
-🌍 Website:  
+🌍 Website:  https://lacegiovanni17.github.io/chidike-product-card-for-e-commerce-site/
 💞️ I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
 
 ![product page for e-commerce store](https://user-images.githubusercontent.com/30509335/188216340-667e719c-9911-459f-b169-79aeee294aaf.PNG)
-
-
 
 
 ## Technologies Used
